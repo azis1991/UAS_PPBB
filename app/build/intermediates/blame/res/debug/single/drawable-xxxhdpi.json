@@ -1,5 +1,9 @@
 [
     {
+        "merged": "E:\\UAS\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_local_phone_black_24dp.png",
+        "source": "E:\\UAS\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_phone_black_24dp.png"
+    },
+    {
         "merged": "E:\\android\\MenuMakanan2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_local_phone_black_24dp.png",
         "source": "E:\\android\\MenuMakanan2\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_local_phone_black_24dp.png"
     }
