@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:6:22-72
+application
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:8:5-45:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\F16\.android\build-cache\199b30926cd67df4c1ec9d109d22d94423f9d8f9\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\caeb584cb7b1d2c09311db4552a2836e55149f3b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2df92b22a01a852e1038449246a0c1c20e529e43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\b59d0117ac19e84bb92cc18bb1e8c20b04c7619a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\F16\.android\build-cache\72fac7ae0677e8031e8ec20cf76175900d66aa83\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\F16\.android\build-cache\24accb452139c203195421af080a1899f878cd46\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\F16\.android\build-cache\39fb8d806978d01b8f876c62f1f9abf192ff0b4c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\F16\.android\build-cache\c59469bfe79a6b545f3fa755574e35a01a0036d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2086a3d41126f9ec31826e7663ed68981936565f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\F16\.android\build-cache\c1b4bdf28bc6c51bf476b6eba66e9fcb1d7df380\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\F16\.android\build-cache\7679c5e1fad6d8f534eb27e5041bd781d09a340c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\F16\.android\build-cache\a0a7e4e63719e918241367190885a9ccaacfb0b0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\F16\.android\build-cache\e7b2f1cd54bc7b719f135b006664eaabee5eac60\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:11:9-40
+	android:supportsRtl
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:14:9-40
+activity#id.giviews.menumakanan.MainActivity
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:19:27-74
+activity#id.giviews.menumakanan.BayarMakanan
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:22:9-28:20
+	android:parentActivityName
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:22:19-47
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:25:13-27:50
+	android:value
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:27:17-47
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:26:17-63
+activity#id.giviews.menumakanan.byr_tempat
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:29:9-35:20
+	android:parentActivityName
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:30:13-55
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:29:19-45
+activity#id.giviews.menumakanan.activity_transfer
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:36:9-42:20
+	android:parentActivityName
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:37:13-55
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:36:19-52
+activity#id.giviews.menumakanan.DetailMakanan
+ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:44:9-51
+	android:name
+		ADDED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml:44:19-48
+uses-sdk
+INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\F16\.android\build-cache\199b30926cd67df4c1ec9d109d22d94423f9d8f9\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\caeb584cb7b1d2c09311db4552a2836e55149f3b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2df92b22a01a852e1038449246a0c1c20e529e43\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\b59d0117ac19e84bb92cc18bb1e8c20b04c7619a\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\F16\.android\build-cache\72fac7ae0677e8031e8ec20cf76175900d66aa83\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\F16\.android\build-cache\24accb452139c203195421af080a1899f878cd46\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\1b166bd19aabf8b16694ff3c857bbb575b230a2c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\F16\.android\build-cache\39fb8d806978d01b8f876c62f1f9abf192ff0b4c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\F16\.android\build-cache\c59469bfe79a6b545f3fa755574e35a01a0036d6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2086a3d41126f9ec31826e7663ed68981936565f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\F16\.android\build-cache\c1b4bdf28bc6c51bf476b6eba66e9fcb1d7df380\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\F16\.android\build-cache\7679c5e1fad6d8f534eb27e5041bd781d09a340c\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\F16\.android\build-cache\a0a7e4e63719e918241367190885a9ccaacfb0b0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\F16\.android\build-cache\e7b2f1cd54bc7b719f135b006664eaabee5eac60\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2df92b22a01a852e1038449246a0c1c20e529e43\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+		INJECTED from E:\android\MenuMakanan2\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\caeb584cb7b1d2c09311db4552a2836e55149f3b\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2df92b22a01a852e1038449246a0c1c20e529e43\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\b59d0117ac19e84bb92cc18bb1e8c20b04c7619a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\F16\.android\build-cache\72fac7ae0677e8031e8ec20cf76175900d66aa83\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\F16\.android\build-cache\24accb452139c203195421af080a1899f878cd46\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\1b166bd19aabf8b16694ff3c857bbb575b230a2c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\F16\.android\build-cache\39fb8d806978d01b8f876c62f1f9abf192ff0b4c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\F16\.android\build-cache\c59469bfe79a6b545f3fa755574e35a01a0036d6\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\F16\.android\build-cache\2086a3d41126f9ec31826e7663ed68981936565f\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\F16\.android\build-cache\c1b4bdf28bc6c51bf476b6eba66e9fcb1d7df380\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\F16\.android\build-cache\7679c5e1fad6d8f534eb27e5041bd781d09a340c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\F16\.android\build-cache\a0a7e4e63719e918241367190885a9ccaacfb0b0\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\F16\.android\build-cache\e7b2f1cd54bc7b719f135b006664eaabee5eac60\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\caeb584cb7b1d2c09311db4552a2836e55149f3b\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\F16\.android\build-cache\caeb584cb7b1d2c09311db4552a2836e55149f3b\output\AndroidManifest.xml:23:9-47
